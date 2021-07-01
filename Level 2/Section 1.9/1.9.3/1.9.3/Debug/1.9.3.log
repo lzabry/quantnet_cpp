@@ -1,0 +1,4 @@
+﻿  1.9.3.cpp
+C:\workplace\Level 2\Section 1.9\1.9.3\1.9.3\1.9.3.cpp(14,42): error C2117: 'MyStruct::c': array bounds overflow
+C:\workplace\Level 2\Section 1.9\1.9.3\1.9.3\1.9.3.cpp(8): message : see declaration of 'MyStruct::c'
+C:\workplace\Level 2\Section 1.9\1.9.3\1.9.3\1.9.3.cpp(8,7): error C2078: too many initializers

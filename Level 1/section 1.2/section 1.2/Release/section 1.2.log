@@ -1,0 +1,7 @@
+﻿  section 1.2.cpp
+C:\workplace\Level 1\section 1.2\section 1.2\section 1.2.cpp(29,19): warning C4056: overflow in floating-point constant arithmetic
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  section 1.2.vcxproj -> C:\workplace\Level 1\section 1.2\Release\section 1.2.exe
